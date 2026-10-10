@@ -16,4 +16,5 @@
     <color name="text_white">#FFFFFF</color>
     <color name="text_yellow">#FFFF00</color>
     <color name="text_phone_lightblue">#18B6FF</color>
+    <color name="text_phone_sky">#00B0FF</color>
 </resources>
