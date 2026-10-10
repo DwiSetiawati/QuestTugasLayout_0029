@@ -6,4 +6,5 @@
     <dimen name="card_spacing">12dp</dimen>
     <dimen name="card_corner">16dp</dimen>
     <dimen name="card_padding">16dp</dimen>
+    <dimen name="text_horizontal_padding">16dp</dimen>
 </resources>
