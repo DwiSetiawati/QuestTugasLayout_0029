@@ -9,4 +9,6 @@
     <dimen name="text_horizontal_padding">16dp</dimen>
     <dimen name="logo_size">64dp</dimen>
     <dimen name="text_gap">4dp</dimen>
+
+    <dimen name="size_title">28sp</dimen>
 </resources>
