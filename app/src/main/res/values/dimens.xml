@@ -14,4 +14,5 @@
     <dimen name="size_subtitle">16sp</dimen>
     <dimen name="size_name">22sp</dimen>
     <dimen name="size_detail">16sp</dimen>
+    <dimen name="size_copyright">12sp</dimen>
 </resources>
