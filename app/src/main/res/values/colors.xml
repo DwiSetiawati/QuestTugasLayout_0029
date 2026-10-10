@@ -17,4 +17,5 @@
     <color name="text_yellow">#FFFF00</color>
     <color name="text_phone_lightblue">#18B6FF</color>
     <color name="text_phone_sky">#00B0FF</color>
+    <color name="text_phone_aqua">#00E5C0</color>
 </resources>
