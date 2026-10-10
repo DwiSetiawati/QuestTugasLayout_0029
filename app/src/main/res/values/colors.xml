@@ -19,4 +19,5 @@
     <color name="text_phone_sky">#00B0FF</color>
     <color name="text_phone_aqua">#00E5C0</color>
     <color name="text_phone_electric">#7DF9FF</color>
+    <color name="text_title">#1C1B1F</color>
 </resources>
